@@ -92,7 +92,7 @@ fig.show()
 ```
 Error executing code: The geopandas.dataset has been deprecated and was removed in GeoPandas 1.0. You can get the original 'naturalearth_cities' data from https://www.naturalearthdata.com/downloads/110m-cultural-vectors/.
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 4, in <module>
   File "/Users/liamconnors/Documents/plotly.py/.venv/lib/python3.12/site-packages/geopandas/datasets/__init__.py", line 18, in get_path

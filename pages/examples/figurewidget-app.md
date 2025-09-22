@@ -19121,7 +19121,7 @@ class FigureWidget(plotly.basewidget.BaseFigureWidget)
  |
  |  widget_types = <ipywidgets.widgets.widget.WidgetRegistry object>
  |
- |  widgets = {'194af59731664b5294b75a87eaabc066': Checkbox(value=True, de...
+ |  widgets = {'0b7f74c02aeb4e6c9a6244c344ab2181': CheckboxStyle(), '0cf8a...
  |
  |  ----------------------------------------------------------------------
  |  Data descriptors inherited from ipywidgets.widgets.widget.LoggingHasTraits:

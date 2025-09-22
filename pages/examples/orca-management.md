@@ -164,7 +164,7 @@ display(SVG(img_bytes))
 ```
 Error executing code: invalid syntax (<string>, line 1)
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 1
     %%time
@@ -193,7 +193,7 @@ display(SVG(img_bytes))
 ```
 Error executing code: invalid syntax (<string>, line 1)
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 1
     %%time
@@ -225,7 +225,7 @@ display(SVG(img_bytes))
 ```
 Error executing code: name 'display' is not defined
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 3, in <module>
 NameError: name 'display' is not defined

@@ -147,7 +147,7 @@ fig_3d.show()
 ```
 Error executing code: cannot import name 'UMAP' from 'umap' (/Users/liamconnors/Documents/plotly.py/.venv/lib/python3.12/site-packages/umap/__init__.py)
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 1, in <module>
 ImportError: cannot import name 'UMAP' from 'umap' (/Users/liamconnors/Documents/plotly.py/.venv/lib/python3.12/site-packages/umap/__init__.py)
@@ -182,7 +182,7 @@ fig.show()
 ```
 Error executing code: cannot import name 'UMAP' from 'umap' (/Users/liamconnors/Documents/plotly.py/.venv/lib/python3.12/site-packages/umap/__init__.py)
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 3, in <module>
 ImportError: cannot import name 'UMAP' from 'umap' (/Users/liamconnors/Documents/plotly.py/.venv/lib/python3.12/site-packages/umap/__init__.py)

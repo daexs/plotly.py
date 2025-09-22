@@ -354,7 +354,7 @@ fig.show()
 ```
 Error executing code: [Errno 2] No such file or directory: '.mapbox_token'
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 251, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 1, in <module>
 FileNotFoundError: [Errno 2] No such file or directory: '.mapbox_token'

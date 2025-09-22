@@ -218,7 +218,7 @@ fig.show()
 ```
 Error executing code: module 'urllib' has no attribute 'request'
 Traceback (most recent call last):
-  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 252, in _run_code
+  File "/Users/liamconnors/Documents/plotly.py/bin/run_markdown.py", line 246, in _run_code
     exec(code, exec_globals)
   File "<string>", line 7, in <module>
 AttributeError: module 'urllib' has no attribute 'request'
