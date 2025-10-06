@@ -15,16 +15,16 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        'plotly-fundamentals.md': 'figure-structure.md'
-        'basic-charts.md': 'line-and-scatter.md'
-        'statistical-charts.md': 'error-bars.md'
-        'scientific-charts.md': 'contour-plots.md'
-        'financial-charts.md': 'time-series.md'
-        'maps.md': 'migrate-to-maplibre.md'
-        'ai-ml.md': 'ml-regression.md'
-        'bio.md': 'bio-volcano-plot.md'
-        '3d-charts.md': '3d-axes.md'
-        'subplot-charts.md': 'mixed-subplots.md'
+        placeholders/plotly-fundamentals.md: figure-structure.md
+        placeholders/basic-charts.md: line-and-scatter.md
+        placeholders/statistical-charts.md: error-bars.md
+        placeholders/scientific-charts.md: contour-plots.md
+        placeholders/financial-charts.md: time-series.md
+        placeholders/maps.md: migrate-to-maplibre.md
+        placeholders/ai-ml.md: ml-regression.md
+        placeholders/bio.md: bio-volcano-plot.md
+        placeholders/3d-charts.md: 3d-axes.md
+        placeholders/subplot-charts.md: mixed-subplots.md
   # - gen-files:
   #     scripts:
   #       - bin/generate_graph_objects_docs.py
