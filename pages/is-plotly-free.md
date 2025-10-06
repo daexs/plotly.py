@@ -19,5 +19,5 @@ which use tiles from a cloud-hosted service, such as Open Street Maps or Mapbox,
 
 ## Does Plotly also make commercial software?
 
-**Yes.** &nbsp; Plotly has commercial offerings such as [Dash Enterprise](https://plotly.com/dash).
+**Yes.** &nbsp; Plotly has commercial offerings such as [Dash Enterprise](https://plotly.com/dash), [Plotly Studio](https://plotly.com/studio), and [Plotly Cloud](https://cloud.plotly.com).
 
